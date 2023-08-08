@@ -542,7 +542,7 @@ async function model_delayedLog(item, dataURL) {
 
 // This step by step tutorial explains how to use FileReader.
 // Tutorial: http://tutorials.jenkov.com/html5/file-api.html
-
+//df
 async function model_processArray(array) {
 	
 	for(var item of fileList) {
